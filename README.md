@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://himyselfsurya.netlify.app/](https://himyselfsurya.netlify.app/)
 
-- 💬 Ask me about **MERN, Django, Data Analytics**
+- 💬 Ask me about **MERN, Django, Data Science, .NET**
 
 - 📫 How to reach me **suryaprataprout8908@gmail.com**
 
